@@ -2604,7 +2604,7 @@ msgstr "Stock Keeping Unit"
 msgid ""
 "SKU refers to a Stock-keeping unit, a unique identifier for each distinct "
 "product and service that can be purchased."
-msgstr "COD si riferisce a una Stock-keeping unit, un identificatore univoco per ogni distinto prodotto o servizio che possono essere acquistati."
+msgstr "COD si riferisce a una Stock-keeping unit, un identificatore univoco per ogni distinto prodotto o servizi che possono essere acquistati."
 
 #: includes/admin/post-types/meta-boxes/class-wc-meta-box-product-data.php:147
 msgid "Product URL"
@@ -2616,7 +2616,7 @@ msgstr "Inserire l'URL esterno al prodotto."
 
 #: includes/admin/post-types/meta-boxes/class-wc-meta-box-product-data.php:150
 msgid "Button text"
-msgstr "Testo del bottone"
+msgstr "Testo del pulsante"
 
 #: includes/admin/post-types/meta-boxes/class-wc-meta-box-product-data.php:150
 msgctxt "placeholder"
@@ -2633,7 +2633,7 @@ msgstr "Prezzo di listino"
 
 #: includes/admin/post-types/meta-boxes/class-wc-meta-box-product-data.php:160
 msgid "Sale Price"
-msgstr "Prezzo di saldo"
+msgstr "Prezzo scontato"
 
 #: includes/admin/post-types/meta-boxes/class-wc-meta-box-product-data.php:160
 #: includes/admin/post-types/meta-boxes/views/html-variation-admin.php:77
